@@ -1,0 +1,37 @@
+[
+   {
+      "position": 1,
+      "course_name": "E-commerce site",
+      "urls": "/test-sites/e-commerce/allinone"
+   },
+   {
+      "position": 2,
+      "course_name": "E-commerce site with pagination links",
+      "urls": "/test-sites/e-commerce/static"
+   },
+   {
+      "position": 3,
+      "course_name": "E-commerce site with popup links",
+      "urls": "/test-sites/e-commerce/allinone-popup-links"
+   },
+   {
+      "position": 4,
+      "course_name": "E-commerce site with AJAX pagination links",
+      "urls": "/test-sites/e-commerce/ajax"
+   },
+   {
+      "position": 5,
+      "course_name": "E-commerce site with \"Load more\" buttons",
+      "urls": "/test-sites/e-commerce/more"
+   },
+   {
+      "position": 6,
+      "course_name": "E-commerce site that loads items while scrolling",
+      "urls": "/test-sites/e-commerce/scroll"
+   },
+   {
+      "position": 7,
+      "course_name": "Table playground",
+      "urls": "/test-sites/tables"
+   }
+]
